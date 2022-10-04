@@ -1,0 +1,30 @@
+
+.avatar{
+  width : 60px;
+  height: 60px;
+  border-radius: 25px;
+  text-align :center;
+  margin-top:20px;
+  box-sizing: border-box;
+
+  
+}
+.description{
+  text-align :center;
+  margin-top:20px
+}
+
+.check{
+  display:flex;
+  justify-content:center;
+  margin-bottom : 20px
+  
+}
+
+
+.check3{
+ width : 180px;
+}
+.spanHeading{
+  font-weight: bold
+}
